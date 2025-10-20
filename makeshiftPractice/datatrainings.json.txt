@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Hockey Entraînement - Débutant",
+    "desc": "Techniques de base : patinage, passes et tirs.",
+    "time": "Lundi 18h",
+    "price": "Gratuit"
+  },
+  {
+    "title": "Tactique Avancée - Power Play",
+    "desc": "Apprenez les stratégies de jeu d'équipe.",
+    "time": "Mercredi 19h",
+    "price": "5$"
+  }
+]
